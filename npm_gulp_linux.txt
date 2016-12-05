@@ -8,3 +8,8 @@ in mapa de lucru:
 sudo npm i gulp --save-dev
 
 sudo npm i
+
+
+
+delete folder:
+sudo rm -r name_folder
