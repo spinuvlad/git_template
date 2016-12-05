@@ -1,0 +1,8 @@
+IGNORAREA UNOR MAPE SAU FISIERE:
+Creare fisier in dosarul de lucru: .gitignore
+ignorare mape:
+# comentariu: se inora mape:
+name_folder/
+
+# vor fi ignorare fisierele *.txt din mapa docs:
+docs/*.txt  

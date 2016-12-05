@@ -10,6 +10,10 @@ sudo npm i gulp --save-dev
 sudo npm i
 
 
+pt lansare gulp:
+gulp watch
+sau
+gulp
 
 delete folder:
 sudo rm -r name_folder
